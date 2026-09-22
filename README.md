@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**arthurrogeriozip/arthurrogeriozip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Olá, eu sou o Arthur 👋</h1> <h3 align="center">Web Developer | Automação & Integrações | Node.js • Next.js • n8n</h3> <p align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construindo+sites+e+automa%C3%A7%C3%B5es+web;Node.js+%7C+Next.js+%7C+MySQL;Integra%C3%A7%C3%B5es+com+WhatsApp+e+n8n;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualiza%C3%A7%C3%B5es+do+perfil&color=2E9EF7&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/SEU_USUARIO?label=Seguidores&style=flat&color=2E9EF7" alt="followers" /> </p>
+🚀 Sobre mim
+💻 Desenvolvo sites, sistemas web e automações para pequenos negócios
+🔧 Trabalho com Node.js, Next.js, MySQL e automações via n8n
+🤖 Já construí agentes de WhatsApp com IA (Gemini + Evolution API) para atendimento e vendas
+🛒 Estou construindo uma loja online de autopeças com checkout via WhatsApp
+📍 Brasil 🇧🇷
+🌱 Aprendendo e evoluindo a cada projeto, sem medo de aprender na prática
+🛠️ Tecnologias & Ferramentas
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express,mysql,python,fastapi,git,github,vscode,postman,figma&perline=8" alt="skills" /> </p> <p align="center"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> </p>
+📊 Estatísticas do GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="streak stats" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" width="48%" /> </p>
+📌 Projetos em destaque
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true" width="48%" /> </p>
+📫 Como me encontrar
+<p align="center"> <a href="https://wa.me/SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="mailto:arthurrogeriocme@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" /> </p>
