@@ -7,7 +7,7 @@
 📍 Brasil 🇧🇷
 🌱 Aprendendo e evoluindo a cada projeto, sem medo de aprender na prática
 🛠️ Tecnologias & Ferramentas
-<br>
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,mysql,python,fastapi,git,github,vscode,figma&perline=8" alt="skills" /> </p> <p align="center"> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> </p>
+<br><br>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,python,git,github,vscode,figma&perline=8" alt="skills" /> </p> <p align="center"> </p>
 📫 Entre em contato comigo:
 <p align="center"> <a href="mailto:arthurrogerio.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/arthur-rogério-524bab289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" /> </p>
